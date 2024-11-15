@@ -21,5 +21,6 @@ print(rank)
 ``````
 ## output:![Alt text](output2.png)
 ## Result:!
-
+Thus the rank of given matrixis succeccfully solved using
+python program
 
