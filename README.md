@@ -23,8 +23,9 @@ matrix=np.array([[1,2,3],[3,6,9]])
 rank=np.linalg.matrix_rank(matrix)
 print(rank)
 ``````
-## output:![Alt text](output2.png)
-## Result:
+## output
+## Result:![Screenshot (52)](https://github.com/user-attachments/assets/2c601e19-25af-4dc1-b2c5-e21c95a53347)
+
 Thus the rank of given matrixis succeccfully solved using
 python program
 
